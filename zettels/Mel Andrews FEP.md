@@ -1,9 +1,11 @@
 #zettels 
 
-<iframe width="100%" height="auto" src="https://www.youtube.com/embed/I0yil_3dvjs?si=vw23dcVLo2fLT279" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=I0yil_3dvjs" target="_blank">
+  <img src="https://img.youtube.com/vi/I0yil_3dvjs/0.jpg" alt="Mel Andrews video" width="100%">
+</a>
 
 
-[Mel Andrews: Ontology of the Free Energy Principle and ...](https://www.youtube.com/watch?v=I0yil_3dvjs&utm_source=chatgpt.com)
+[Mel Andrews: Ontology of the Free Energy Principle and ...](https://www.youtube.com/watch?v=I0yil_3dvjs)
 
 Заметка о **Mel Andrews** и её связке с **Free Energy Principle (FEP)**:
 
