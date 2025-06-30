@@ -1,7 +1,7 @@
 #zettels
 
 
-> [!warning] Data Race (Гонка данных)
+> Data Race (Гонка данных)
 > **Data race** — это ошибка параллельного или многопоточного программирования, возникающая, когда:
 > 
 > 1. Два или более потока **одновременно обращаются к одной и той же переменной**;
@@ -35,7 +35,7 @@
 > - Проверять гонки в C/C++ через **Sanitizer** (`-fsanitize=thread`) или инструменты анализа (`Valgrind`, `ThreadSanitizer`).
 
 
-> [!warning] Data Races в Python
+> Data Races в Python
 > 
 > В Python гонки данных тоже возможны, несмотря на наличие **GIL (Global Interpreter Lock)**.
 > 
